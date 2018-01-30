@@ -1,7 +1,6 @@
 # abstractVM
-simple vm that runs executes a small list of commands
+## simple vm that runs executes a small list of commands:
 
-The basic concept is to create a VM that parses a few limited commands:
 
 • push v: Pushes the value v at the top of the stack. The value v must have one of
   the following form:
